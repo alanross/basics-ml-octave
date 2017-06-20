@@ -1,0 +1,6 @@
+Logistic regression
+
+- Sigmoid function = logistic function
+
+- The training set does not define the decision boundaries,
+it is defined by the hypothesis variables

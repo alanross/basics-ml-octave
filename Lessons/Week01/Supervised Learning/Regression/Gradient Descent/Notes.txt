@@ -1,0 +1,1 @@
+Use Gradient Descent to find the minimum of cost functions.

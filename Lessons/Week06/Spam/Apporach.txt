@@ -1,0 +1,9 @@
+Approach:
+
+- build something our very quickly
+- make sure there is a real number value as error computed so you can see if things improve or not
+- test
+- make assumptions if model needs more features, data etc...
+
+
+This is better than trying to do all perfect on the first run and trying improve via gut fealing

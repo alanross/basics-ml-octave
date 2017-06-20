@@ -1,0 +1,2 @@
+There are other ways of fitting a curve through points than a straight line.
+Polynomial curves are one such other option

@@ -1,0 +1,4 @@
+We use feature scaling to help gradient descent get to its goal faster
+
+Feature scaling means we scale the features x1 x2 etc in a way that they are all in the same range.
+best range is between -1 and 1
